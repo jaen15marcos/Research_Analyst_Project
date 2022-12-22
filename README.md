@@ -2,7 +2,7 @@
 
 Hi!
 
-I performed most of the task in R and Python. I used both because for some reason while cleaning the data in R, and error ocurred so I decided to export my R data csv and continue cleaning the data in python. 
+I performed most of the tasks in R and Python. I used both because for some reason while cleaning the data in R, an error occurred so I decided to export my R data CSV and continue cleaning the data in python.
 
 1. Data Cleaning, Processing and Analysis Files: ResearchAnalyst.R & csv_creation.py 
 2. Data File: data.xlsx
